@@ -1,2 +1,3 @@
 Hola soy vane, tengo 23 años y mi color favorito es el RGB(238,130,238).
 Hola soy Ivan, tengo 23 años y mi color favorito es el RGB(105,190,40).
+Hola soy Mitzy, tengo 23 años y mi color favorito es el RGB(6,190,244),
