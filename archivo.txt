@@ -4,3 +4,4 @@ Hola soy Mitzy, tengo 23 años y mi color favorito es el RGB(6,190,244),
 Hola soy Salvador, tengo 34 años y mi color favorito es el RGB(0,0,255)
 Hola soy Kevin, tengo 21 años y mi color favorito es el RGB(24, 95, 249)
 Hola soy Ricardo, tengo 26 años y mi color favorito es el RGB(51, 102, 204).
+Hola soy Fernando Yovany, tengo 25 años y mi color favorito es el GB (0,0,0).
